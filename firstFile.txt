@@ -1,0 +1,4 @@
+TODO:
+    1. practice git
+    2. update this file
+    3. smth else?
